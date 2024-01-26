@@ -1,0 +1,43 @@
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  width: 70%;
+  height: auto;
+  padding: 20px;
+  margin: 70px auto;
+  border: 2px solid brown;
+  border-radius: 5px;
+  background-color: brown;
+}
+
+.App {
+  text-align: center;
+
+}
+
+input {
+  margin-right: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+ h1{
+  font-size: 5em;
+  color: #fff;
+  text-shadow: 2px 2px 0px rgba(253, 253, 253, 0.895);
+
+ }
+ button{
+  background-color: green;
+ }
+ label{
+  background-color: rgb(234, 241, 241);
+ }
+ button{
+  background-color: rgb(13, 227, 106);
+  
+ }
